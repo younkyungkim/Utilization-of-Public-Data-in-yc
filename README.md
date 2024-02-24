@@ -60,7 +60,7 @@
 
 포항시 북구는 장량동, 흥해읍, 우창동 중 장량동이 두 지역에 비해 우세하게 인구수가 많은 것을 확인했습니다. 인터넷 조사를 통해 포항시에서 시내 교통체증을 해소하기 위해 흥해읍
 에 환승센터를 설치한 것을 파악했습니다. 이곳을 포항시 북구 셔틀의 출발지로 선정하고, 인구수가 우세하게 많은 장량동의 행정복지센터를 경유지로 선정했습니다.
-<img width="821" alt="Untitled (19)" src="https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/36de8bfe-fe74-44fd-a7a1-cc5da6f31970">
+<img width="591" alt="Untitled (19)" src="https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/36de8bfe-fe74-44fd-a7a1-cc5da6f31970">
 
 결과적으로, 저희가 선정한 3개의 셔틀버스 노선은 아래와 같습니다.
 <img width="821" alt="Untitled (10)" src="https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/f533fecc-ef2a-40d3-a570-38d87bbc32cf">
