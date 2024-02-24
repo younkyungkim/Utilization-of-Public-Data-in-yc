@@ -16,6 +16,7 @@
 
 
 버스가 정차하는 정류장이 꽤 많아 보였지만, 양방향으로 표시된 정류장과 이미 지나쳐 온 경로의 버스를 제외하고 영천 버스터미널에서 렛츠런파크로 가는 방향의 버스만 살펴보아야 합니다.
+
 <img width="592" alt="Untitled (5)" src="https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/8d3363a7-a32a-4070-aee0-b68ebcadc258">
 
 
