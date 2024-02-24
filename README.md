@@ -50,7 +50,7 @@
 
 
 승하차 인구수 분석 결과, 반월당, 동대구역, 중앙로역, 상인역, 서부 정류장 순으로 인구수가 많았으며, 이는 곧 유동인구가 많다는 의미입니다. 대구 셔틀버스 노선을 선정할 때 유동인 구가 많은 곳을 기준으로 선정하여, 반월당역과 동대구역을 노선에 포함하기로 했습니다. 지 도상에 상위 5개 역의 위치 좌표를 찍어보았습니다. 오른쪽 위에 영천시가 위치하며, 지도에서 영천시로 가는 경로상 반월당역을 출발지로 선정하였고, 동대구역을 경유지로 선정했습니다.
-![Untitled (7)](https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/b458a397-b08f-40b7-8f49-c50b4df95fda)
+<img width="581" alt="Untitled (7)" src="https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/b458a397-b08f-40b7-8f49-c50b4df95fda">
 
 
 경상북도에서 두 개의 노선을 선정하기 위해 인구수가 많은 지역을 분석하였습니다. 또, 렛 츠런파크 부산의 주요 관광객이 40-50대라는 점 또한 참고했습니다. 행정안전부 지역별, 성 별, 연령별 주민등록 인구수 데이터를 활용하여 경상북도 주요 시군구 두 지역을 추출해보았 습니다. 전체 인구수를 기준으로 보았을 때와 주 타겟층인 40-50대 인구수를 기준으로 보았 을 때 동일하게 상위 2개의 지역으로 구미시, 포항시 북구로 확인되었습니다. 더 세부적인 노선을 짜기 위해 각 시군구에서 인구수가 많은 읍면동을 세 개씩 추출했을 때, 구미시는 인 동동, 양포동, 선주원남동 순으로 많았고, 포항시 북구는 장량동, 흥해읍, 우창동 순으로 많았 습니다.
@@ -60,7 +60,7 @@
 
 포항시 북구는 장량동, 흥해읍, 우창동 중 장량동이 두 지역에 비해 우세하게 인구수가 많은 것을 확인했습니다. 인터넷 조사를 통해 포항시에서 시내 교통체증을 해소하기 위해 흥해읍
 에 환승센터를 설치한 것을 파악했습니다. 이곳을 포항시 북구 셔틀의 출발지로 선정하고, 인구수가 우세하게 많은 장량동의 행정복지센터를 경유지로 선정했습니다.
-<img width="591" alt="Untitled (19)" src="https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/36de8bfe-fe74-44fd-a7a1-cc5da6f31970">
+![Untitled (9)](https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/60691f80-b824-40bc-8035-38e5480fb61b)
 
 결과적으로, 저희가 선정한 3개의 셔틀버스 노선은 아래와 같습니다.
 <img width="821" alt="Untitled (10)" src="https://github.com/younkyungkim/Utilization-of-Public-Data-in-yc/assets/141793731/f533fecc-ef2a-40d3-a570-38d87bbc32cf">
